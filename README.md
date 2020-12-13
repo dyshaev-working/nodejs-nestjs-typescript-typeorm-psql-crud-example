@@ -5,7 +5,7 @@ nodejs-nestjs-typescript-typeorm-psql-crud-example
 Example simple Nest.js CRUD application
 
 # Set of tools
-Node.js, Nest.js, Docker, PostgreSQL, Typescript, Swagger, Postman
+Node.js, Nest.js, Docker, PostgreSQL, Typescript, Swagger
 
 # To start application
 1. npm install
